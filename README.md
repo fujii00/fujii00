@@ -98,13 +98,7 @@ from engaging videos to atmospheric game worlds.
 </p>
 
 <p align="center">
-
-  <!-- Animated music bars -->
-  <img src="https://cdn.pixabay.com/animation/2025/06/03/12/29/12-29-15-556_512.gif" 
-       width="250" 
-       alt="music bars animation" 
-       style="display:block; margin:0 auto;"/>
-
+<center>
   <!-- Song cover -->
   <img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/6b/0f/0b/6b0f0b3d-e842-5ee1-83a8-1b12142a9dfd/dj.bpfbtyiy.jpg/1200x630bb.jpg" 
        width="200" 
@@ -116,10 +110,11 @@ from engaging videos to atmospheric game worlds.
        alt="player ui" 
        style="display:block; margin:-10px auto 0 auto;"/>
 
-  <!-- Caption -->
-  <sub><b>🎧 Kenshi Yonezu — JANE DOE</b></sub>
+
+  <sub><b>🎧 Kenshi Yonezu — </b></sub>
 
 </p>
+</center>
 
 
 
