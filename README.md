@@ -11,19 +11,43 @@
 
 <div align="center">
 
-![Achievement](https://img.shields.io/badge/Full--Stack%20Developer-%F0%9F%9A%80-blueviolet)
+<!-- Full-Stack Developer -->
+<img src="https://emoji.discadia.com/emojis/3b8e0c94-55bd-4790-9bb1-3d5105cb6a1a.gif" width="22" />
+![Achievement](https://img.shields.io/badge/Full--Stack%20Developer-blueviolet)
+
+<!-- Creative Coder -->
+<img src="https://emoji.discadia.com/emojis/1f6fa428-1b4a-4d94-a7c0-e421c61f32df.gif" width="22" />
 ![Achievement](https://img.shields.io/badge/Creative%20Coder-blueviolet)
-![Achievement](https://img.shields.io/badge/Digital%20Artist-%F0%9F%8E%AD-red)
-![Achievement](https://img.shields.io/badge/Game%20Dev-%F0%9F%8E%AE-orange)
 
-![Achievement](https://img.shields.io/badge/Weeb%20Developer-%F0%9F%8E%88-purple)
-![Achievement](https://img.shields.io/badge/Code%20Alchemist-%F0%9F%94%AE-ff69b4)
-![Achievement](https://img.shields.io/badge/3D%20Artist-%F0%9F%8E%A8-9400d3)
-![Achievement](https://img.shields.io/badge/Video%20Editor-%F0%9F%8E%A5-ff0000)
-![Achievement](https://img.shields.io/badge/Horror%20Game%20Dev-%F0%9F%91%BB-black)
+<!-- Digital Artist -->
+<img src="https://emoji.discadia.com/emojis/2ff8b408-8cb7-42b5-a63b-d44f7c16ddf9.gif" width="22" />
+![Achievement](https://img.shields.io/badge/Digital%20Artist-red)
 
+<!-- Game Dev -->
+<img src="https://emoji.discadia.com/emojis/2655778c-7c55-4f3c-9cdb-b9c6f537b051.gif" width="22" />
+![Achievement](https://img.shields.io/badge/Game%20Dev-orange)
+
+<!-- Weeb Developer -->
+<img src="https://emoji.discadia.com/emojis/6d90e1fc-d383-4fa0-bde8-19f69d69c89c.gif" width="22" />
+![Achievement](https://img.shields.io/badge/Weeb%20Developer-purple)
+
+<!-- Code Alchemist (no perfect emoji found, left clean) -->
+![Achievement](https://img.shields.io/badge/Code%20Alchemist-ff69b4)
+
+<!-- 3D Artist -->
+<img src="https://emoji.discadia.com/emojis/c4cb0dcb-3465-4a95-a9a1-59c94665052c.gif" width="22" />
+![Achievement](https://img.shields.io/badge/3D%20Artist-9400d3)
+
+<!-- Video Editor -->
+<img src="https://emoji.discadia.com/emojis/520c871a-df63-4fbd-9699-8f8c8fddd0bb.gif" width="22" />
+![Achievement](https://img.shields.io/badge/Video%20Editor-ff0000)
+
+<!-- Horror Game Dev -->
+<img src="https://emoji.discadia.com/emojis/9a15de5e-a0c9-4941-a107-a0cf9f1832c0.gif" width="22" />
+![Achievement](https://img.shields.io/badge/Horror%20Game%20Dev-black)
 
 </div>
+
 
 ---
 
