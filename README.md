@@ -8,6 +8,10 @@
 <p align="center">
   <em>“Crafting worlds where code, art, and imagination breathe as one.”</em>
 </p>
+![Achievement](https://img.shields.io/badge/Full--Stack%20Developer-%F0%9F%9A%80-blueviolet)
+![Achievement](https://img.shields.io/badge/Creative%20Coder-%F0%9F%8E%A8-pink)
+![Achievement](https://img.shields.io/badge/Digital%20Artist-%F0%9F%8E%AD-red)
+![Achievement](https://img.shields.io/badge/Game%20Dev-%F0%9F%8E%AE-orange)
 
 ---
 
