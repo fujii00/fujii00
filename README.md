@@ -16,6 +16,13 @@
 ![Achievement](https://img.shields.io/badge/Digital%20Artist-%F0%9F%8E%AD-red)
 ![Achievement](https://img.shields.io/badge/Game%20Dev-%F0%9F%8E%AE-orange)
 
+![Achievement](https://img.shields.io/badge/Weeb%20Developer-%F0%9F%8E%88-purple)
+![Achievement](https://img.shields.io/badge/Code%20Alchemist-%F0%9F%94%AE-ff69b4)
+![Achievement](https://img.shields.io/badge/3D%20Artist-%F0%9F%8E%A8-9400d3)
+![Achievement](https://img.shields.io/badge/Video%20Editor-%F0%9F%8E%A5-ff0000)
+![Achievement](https://img.shields.io/badge/Horror%20Game%20Dev-%F0%9F%91%BB-black)
+
+
 </div>
 
 ---
