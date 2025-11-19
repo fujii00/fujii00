@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://64.media.tumblr.com/5d4821ebb00818ba270d38f0e503689b/16c99656650e79a1-47/s500x750/d04bec2e9bcbdda7b69bd60d9d440746214edad9.gif" width="800" alt="banner anime wave">
+  <img src="https://64.media.tumblr.com/5d4821ebb00818ba270d38f0e503689b/16c99656650e79a1-47/s500x750/d04bec2e9bcbdda7b69bd60d9d440746214edad9.gif" width="800" heigth="300" alt="banner anime wave">
 </p>
 
 <h1 align="center"> Fujii — Digital Creator & Developer </h1>
