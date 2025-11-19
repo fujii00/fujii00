@@ -99,26 +99,28 @@ from engaging videos to atmospheric game worlds.
 
 <p align="center">
 
-  <!-- Container for all elements -->
-  <span style="display: inline-block; text-align: center; line-height: 0;">
-    <img src="https://cdn.pixabay.com/animation/2025/06/03/12/29/12-29-15-556_512.gif" 
-         width="250" 
-         alt="music bars animation" 
-         style="display:block; margin-bottom:-10px;"/>
-    <!-- Song cover -->
-    <img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/6b/0f/0b/6b0f0b3d-e842-5ee1-83a8-1b12142a9dfd/dj.bpfbtyiy.jpg/1200x630bb.jpg" 
-         width="200" 
-         style="border-radius: 20px; box-shadow: 0px 0px 20px #a54aff; display:block; margin: -15px auto 0 auto;"/>
-    <!-- Player UI -->
-    <img src="https://cdn.pixabay.com/animation/2024/01/13/23/46/23-46-52-835_512.gif" 
-         width="260" 
-         alt="player ui" 
-         style="display:block; margin:-15px auto 0 auto;"/>
-    <!-- Caption -->
-    <sub><b>🎧 Kenshi Yonezu — JANE DOE</b></sub>
+  <!-- Animated music bars -->
+  <img src="https://cdn.pixabay.com/animation/2025/06/03/12/29/12-29-15-556_512.gif" 
+       width="250" 
+       alt="music bars animation" 
+       style="display:block; margin:0 auto;"/>
 
-  </span>
+  <!-- Song cover -->
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/6b/0f/0b/6b0f0b3d-e842-5ee1-83a8-1b12142a9dfd/dj.bpfbtyiy.jpg/1200x630bb.jpg" 
+       width="200" 
+       style="border-radius: 20px; box-shadow: 0px 0px 20px #a54aff; display:block; margin:-10px auto 0 auto;"/>
+
+  <!-- Player UI -->
+  <img src="https://cdn.pixabay.com/animation/2024/01/13/23/46/23-46-52-835_512.gif" 
+       width="260" 
+       alt="player ui" 
+       style="display:block; margin:-10px auto 0 auto;"/>
+
+  <!-- Caption -->
+  <sub><b>🎧 Kenshi Yonezu — JANE DOE</b></sub>
+
 </p>
+
 
 
 
