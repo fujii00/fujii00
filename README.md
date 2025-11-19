@@ -100,12 +100,12 @@ from engaging videos to atmospheric game worlds.
 <p align="center">
 
   <!-- Animated music bars -->
-  <img src="https://i.imgur.com/4L3XK3G.gif" width="250" alt="music bars animation"/>
+  <img src="https://cdn.pixabay.com/animation/2025/06/03/12/29/12-29-15-556_512.gif" width="250" alt="music bars animation"/>
   <img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/6b/0f/0b/6b0f0b3d-e842-5ee1-83a8-1b12142a9dfd/dj.bpfbtyiy.jpg/1200x630bb.jpg" 
        width="200" 
        style="border-radius: 20px; margin-top: -20px; box-shadow: 0px 0px 20px #a54aff;">
   <br>
-  <img src="https://i.imgur.com/DJmK0yO.gif" width="260" alt="player ui"/>
+  <img src="https://cdn.pixabay.com/animation/2024/01/13/23/46/23-46-52-835_512.gif" width="260" alt="player ui"/>
 
   <br>
   <sub><b>🎧 Kenshi Yonezu — JANE DOE</b></sub>
