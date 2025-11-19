@@ -3,9 +3,8 @@
   <img src="https://64.media.tumblr.com/5d4821ebb00818ba270d38f0e503689b/16c99656650e79a1-47/s500x750/d04bec2e9bcbdda7b69bd60d9d440746214edad9.gif" width="800" height="300" alt="banner anime wave">
 </p>
 
-
+ <h1 align="center"> Fujii — Digital Creator & Developer </h1>
 <p align="center">
-  <h1 align="center"> Fujii — Digital Creator & Developer </h1>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=9B5CFB&center=true&multiline=true&width=600&height=90&lines=Welcome+to+my+digital+universe;I+code,+animate,+and+create+worlds" />
 </p>
 <p align="center">
@@ -77,6 +76,10 @@ from engaging videos to atmospheric game worlds.
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=fujii00&show_icons=true&theme=tokyonight&border_radius=20" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fujii00&layout=compact&theme=tokyonight&border_radius=20" />
 </p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=fujii00&theme=tokyonight&margin-w=10" />
+</p>
+
 
 <p align="center">
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=fujii00&theme=tokyonight&border_radius=20" />
@@ -93,6 +96,14 @@ from engaging videos to atmospheric game worlds.
 <p align="center">
   <b>"From pixels to worlds, I build what I once wished to see."</b>
 </p>
+
+<p align="center">
+  <img src="https://i.imgur.com/9jbaI3w.gif" width="260"><br>
+  <img src="https://i.scdn.co/image/ab67616d0000b2736ef0d842221c25f85cf3dd20" width="120" style="border-radius: 10px;">
+  <br>
+  <sub><b>Now Listening • Kenshi Yonezu — JANE DOE 🎧</b></sub>
+</p>
+
 
 ---
 
