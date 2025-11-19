@@ -10,29 +10,17 @@
 </p>
 
 <div align="center">
-
-
+  
 ![Achievement](https://img.shields.io/badge/Full--Stack%20Developer-blueviolet)
-
-
 ![Achievement](https://img.shields.io/badge/Creative%20Coder-blueviolet)
-
-
 ![Achievement](https://img.shields.io/badge/Digital%20Artist-red)
-
-
 ![Achievement](https://img.shields.io/badge/Game%20Dev-orange)
-
 ![Achievement](https://img.shields.io/badge/Weeb%20Developer-purple)
 
-<!-- Code Alchemist (no perfect emoji found, left clean) -->
+
 ![Achievement](https://img.shields.io/badge/Code%20Alchemist-ff69b4)
 ![Achievement](https://img.shields.io/badge/3D%20Artist-9400d3)
-
->
 ![Achievement](https://img.shields.io/badge/Video%20Editor-ff0000)
-
-
 ![Achievement](https://img.shields.io/badge/Horror%20Game%20Dev-black)
 
 </div>
