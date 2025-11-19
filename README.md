@@ -97,24 +97,26 @@ from engaging videos to atmospheric game worlds.
   <b>"From pixels to worlds, I build what I once wished to see."</b>
 </p>
 
-<p align="center">
-<center>
-  <!-- Song cover -->
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/6b/0f/0b/6b0f0b3d-e842-5ee1-83a8-1b12142a9dfd/dj.bpfbtyiy.jpg/1200x630bb.jpg" 
-       width="200" 
-       style="border-radius: 20px; box-shadow: 0px 0px 20px #a54aff; display:block; margin:-10px auto 0 auto;"/>
+<div align="center">
 
-  <!-- Player UI -->
-  <img src="https://cdn.pixabay.com/animation/2024/01/13/23/46/23-46-52-835_512.gif" 
-       width="260" 
-       alt="player ui" 
-       style="display:block; margin:-10px auto 0 auto;"/>
+  <!-- Small player box -->
+  <a href="https://open.spotify.com/track/your-song-link" target="_blank" style="text-decoration:none;">
+    <div style="display:inline-block; background-color:#0d1117; padding:10px; border-radius:15px; box-shadow:0 0 15px #a54aff;">
+      <!-- Song cover -->
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/6b/0f/0b/6b0f0b3d-e842-5ee1-83a8-1b12142a9dfd/dj.bpfbtyiy.jpg/1200x630bb.jpg" 
+           width="180" 
+           style="border-radius:12px; display:block; margin:0 auto;"/>
+      <!-- Player UI animation -->
+      <img src="https://cdn.pixabay.com/animation/2024/01/13/23/46/23-46-52-835_512.gif" 
+           width="200" 
+           style="display:block; margin:5px auto 0 auto;"/>
+      <!-- Caption -->
+      <sub style="color:#fff;"><b>🎧 Kenshi Yonezu — JANE DOE</b></sub>
+    </div>
+  </a>
 
+</div>
 
-  <sub><b>🎧 Kenshi Yonezu — </b></sub>
-
-</p>
-</center>
 
 
 
