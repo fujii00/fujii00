@@ -98,21 +98,25 @@ from engaging videos to atmospheric game worlds.
 </p>
 
 <div align="center">
-    <div style="display:inline-block; background-color:#0d1117; padding:10px; border-radius:15px; box-shadow:0 0 15px #a54aff;">
-      <!-- Song cover -->
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/6b/0f/0b/6b0f0b3d-e842-5ee1-83a8-1b12142a9dfd/dj.bpfbtyiy.jpg/1200x630bb.jpg" 
-           width="180" 
-           style="border-radius:12px; display:block; margin:0 auto;"/>
-      <!-- Player UI animation -->
-      <img src="https://cdn.pixabay.com/animation/2024/01/13/23/46/23-46-52-835_512.gif" 
-           width="200" 
-           style="display:block; margin:5px auto 0 auto;"/>
-      <!-- Caption -->
-      <sub style="color:#fff;"><b>🎧 Kenshi Yonezu — JANE DOE</b></sub>
-    </div>
-  </a>
-
+  <div style="display:inline-block; 
+              background-color:#0d1117; 
+              padding:4px; 
+              border-radius:10px; 
+              border:2px solid #a54aff; 
+              box-shadow:0 0 12px #a54aff;">
+    <!-- Song cover with small border glow -->
+    <img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/6b/0f/0b/6b0f0b3d-e842-5ee1-83a8-1b12142a9dfd/dj.bpfbtyiy.jpg/1200x630bb.jpg" 
+         width="140" 
+         style="border-radius:8px; display:block; margin:0 auto; border:1px solid #ffffff; box-shadow:0 0 8px #a54aff;"/>
+    <!-- Player UI animation -->
+    <img src="https://cdn.pixabay.com/animation/2024/01/13/23/46/23-46-52-835_512.gif" 
+         width="160" 
+         style="display:block; margin:2px auto 0 auto;"/>
+    <!-- Caption -->
+    <sub style="color:#fff; display:block; margin-top:2px;"><b>🎧 Kenshi Yonezu — JANE DOE</b></sub>
+  </div>
 </div>
+
 
 
 
