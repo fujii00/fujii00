@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/0ZfQZfO.gif" width="800" alt="banner anime wave">
+  <img src="https://i.pinimg.com/originals/e6/da/c1/e6dac1038095d76596e8b1bd9653f569.gif" width="800" alt="banner anime wave">
 </p>
 
 <h1 align="center"> Fujii — Digital Creator & Developer </h1>
@@ -59,7 +59,7 @@ from engaging videos to atmospheric game worlds.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fujii00&theme=tokyonight&border_radius=20" />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fujii00&theme=tokyonight&border_radius=20" />
 </p>
 
 ---
@@ -67,7 +67,7 @@ from engaging videos to atmospheric game worlds.
 
 
 <p align="center">
-  <img src="https://i.imgur.com/kTg7S6C.gif" width="350">
+  <img src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif" width="350">
 </p>
 
 <p align="center">
