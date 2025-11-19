@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://64.media.tumblr.com/5d4821ebb00818ba270d38f0e503689b/16c99656650e79a1-47/s500x750/d04bec2e9bcbdda7b69bd60d9d440746214edad9.gif" width="800" heigth="300" alt="banner anime wave">
+  <img src="https://64.media.tumblr.com/5d4821ebb00818ba270d38f0e503689b/16c99656650e79a1-47/s500x750/d04bec2e9bcbdda7b69bd60d9d440746214edad9.gif" width="800" height="300" alt="banner anime wave">
 </p>
 
 <h1 align="center"> Fujii — Digital Creator & Developer </h1>
@@ -8,10 +8,15 @@
 <p align="center">
   <em>“Crafting worlds where code, art, and imagination breathe as one.”</em>
 </p>
+
+<div align="center">
+
 ![Achievement](https://img.shields.io/badge/Full--Stack%20Developer-%F0%9F%9A%80-blueviolet)
 ![Achievement](https://img.shields.io/badge/Creative%20Coder-%F0%9F%8E%A8-pink)
 ![Achievement](https://img.shields.io/badge/Digital%20Artist-%F0%9F%8E%AD-red)
 ![Achievement](https://img.shields.io/badge/Game%20Dev-%F0%9F%8E%AE-orange)
+
+</div>
 
 ---
 
