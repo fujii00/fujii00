@@ -3,8 +3,11 @@
   <img src="https://64.media.tumblr.com/5d4821ebb00818ba270d38f0e503689b/16c99656650e79a1-47/s500x750/d04bec2e9bcbdda7b69bd60d9d440746214edad9.gif" width="800" height="300" alt="banner anime wave">
 </p>
 
-<h1 align="center"> Fujii — Digital Creator & Developer </h1>
 
+<p align="center">
+  <h1 align="center"> Fujii — Digital Creator & Developer </h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=9B5CFB&center=true&multiline=true&width=600&height=90&lines=Welcome+to+my+digital+universe;I+code,+animate,+and+create+worlds" />
+</p>
 <p align="center">
   <em>“Crafting worlds where code, art, and imagination breathe as one.”</em>
 </p>
