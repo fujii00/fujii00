@@ -98,9 +98,6 @@ from engaging videos to atmospheric game worlds.
 </p>
 
 <div align="center">
-
-  <!-- Small player box -->
-  <a href="https://open.spotify.com/track/your-song-link" target="_blank" style="text-decoration:none;">
     <div style="display:inline-block; background-color:#0d1117; padding:10px; border-radius:15px; box-shadow:0 0 15px #a54aff;">
       <!-- Song cover -->
       <img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/6b/0f/0b/6b0f0b3d-e842-5ee1-83a8-1b12142a9dfd/dj.bpfbtyiy.jpg/1200x630bb.jpg" 
