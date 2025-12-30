@@ -119,9 +119,15 @@ from engaging videos to atmospheric game worlds.
 
 ##  Connect With Me  
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=discord"></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=instagram"></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=linkedin"></a>
+  <a href="https://discord.com/users/970682978613223545" title="Discord: denji_kun0">
+    <img src="https://skillicons.dev/icons?i=discord" />
+  </a>
+  <a href="https://instagram.com/fujii._.ig" title="Instagram: @fujii._.ig">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  <a href="https://linkedin.com/in/" title="LinkedIn: Fujii">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
 </p>
 
 ---
