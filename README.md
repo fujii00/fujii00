@@ -122,7 +122,7 @@ from engaging videos to atmospheric game worlds.
   <a href="https://discord.com/users/970682978613223545" title="Discord: denji_kun0">
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
-  <a href="https://instagram.com/fujii._.ig" title="Instagram: @fujii._.ig">
+  <a href="https://instagram.com/" title="Instagram: not available">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
   <a href="https://linkedin.com/in/" title="LinkedIn: Fujii">
